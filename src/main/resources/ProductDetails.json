@@ -1,0 +1,36 @@
+[
+{
+	"productName":"OnePlus5",
+	"productType":"Mobile",
+	"description":"20MP+16MP primary dual camera and 16MP front facing camera",
+	"price":"32990",
+	"vendorCode":"0005"	
+},
+{
+	"productName":"OnePlus3",
+	"productType":"Mobile",
+	"description":"20MP+8MP primary dual camera and 8MP front facing camera",
+	"price":"27990",
+	"vendorCode":"0005"	
+},
+{
+	"productName":"OnePlus2",
+	"productType":"Mobile",
+	"description":"18MP+8MP primary dual camera and 8MP front facing camera",
+	"price":"16990",
+	"vendorCode":"0005"	
+},
+{
+	"productName":"Trousers",
+	"productType":"Clothing",
+	"description":"Linen Black Trouser",
+	"price":"1690",
+	"vendorCode":"0002"	
+},{
+	"productName":"Curtains",
+	"productType":"Home Decor",
+	"description":"Chiffon cutton blue color",
+	"price":"1900",
+	"vendorCode":"0004"	
+}
+]
