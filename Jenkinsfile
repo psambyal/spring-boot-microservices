@@ -1,8 +1,8 @@
 node {  
     stage('Build') { 
-        mvn install
+        echo "Build"
     }
     stage('Test') { 
-        mvn test
+        echo "test"
     }
  }
