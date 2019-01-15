@@ -1,6 +1,6 @@
 node {  
     stage('Build') { 
-        mvn clean package
+        mvn package
     }
     stage('Test') { 
         mvn test
